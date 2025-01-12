@@ -26,7 +26,6 @@ h1,h2,h3,h4 {
     margin: 0;
     border: 0;
     padding: 0;
-    color: hsl(0, 0%, 100%);
     font-weight: bold;
     line-height: 1.7rem
 }
